@@ -2,7 +2,7 @@
 
 1. Yelp text reviews, the review date and the star rating are scraped from Yelp page of Purple Kow Tea Shop.  The code for web scraping can be found in 'scraping_yelp' notebook.
 
-2. The main notebook of project4 is titled 'NLP_yelp_review'.
+2. The main notebook of project4 is titled 'NLP_yelp_review'.  
     A. The pickled file is loaded in this notebook and EDA is performed. 
     B. The data is cleaned, lemmatized and tokenzied.  
     C. Topic modeling is explored using LSA and NMF with TF-IDF and CountVectorizer.  NMF with TF-IDF is chosen since it produced the most coherent topics.
